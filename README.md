@@ -9,7 +9,7 @@ Laster data om datakilder.
 
 ### Dataflyt
 
-[![Dataflyt](https://github.com/Artsdatabanken/naturvern-lastejobb/raw/master/doc/dataflyt.png)](https://artsdatabanken.github.io/naturvern-lastejobb/)
+[![Dataflyt](https://github.com/Artsdatabanken/datakilde-lastejobb/raw/master/doc/dataflyt.png)](https://artsdatabanken.github.io/naturvern-lastejobb/)
 
 ### Tegnforklaring
 
