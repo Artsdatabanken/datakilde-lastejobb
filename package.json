@@ -8,7 +8,8 @@
   "download": "node index download",
   "transform": "node --max_old_space_size=8192 index transform",
   "build": "npm run download && npm run transform",
-  "deploy": "./scripts/deploy.sh"
+  "deploy": "./scripts/deploy.sh",
+  "upload": "./stages/deploy/deploy.sh"
  },
  "keywords": [],
  "author": "",
